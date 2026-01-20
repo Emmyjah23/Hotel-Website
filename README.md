@@ -23,7 +23,7 @@ This project was built to demonstrate front-end web development skills using sta
 * **CSS3** – Styling and layout
 * **Font Awesome** – Icons for visual enhancement
 
-## 🚀 Getting Started
+## Getting Started
 
 To view the website locally:
 
@@ -45,19 +45,19 @@ LA-Hotel/
 └── README.md
 ```
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add room listings and booking functionality
 * Integrate a contact form
 * Improve animations and interactivity using JavaScript
 * Add backend support for reservations
 
-## 👤 Author
+## Author
 
 **Emmanuel Odey**
 Front-End Developer
 
-## 📄 License
+## License
 
 This project is open for learning and personal use. Feel free to modify and improve it.
 
